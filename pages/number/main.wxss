@@ -1,0 +1,6 @@
+@import "../../common/vendor.wxss";
+
+.view-text.data-v-3dff49c8 {
+  border: 2rpx solid #f40;
+  padding: 10rpx 20rpx;
+}

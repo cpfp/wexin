@@ -1,0 +1,3 @@
+<import src="/components/calendar.vue.wxml" /><template name="56c4b73f">
+  <view class="_div data-v-3dff49c8"><template data="{{...$root[$kk+'0'], $root}}" is="52a01168"></template></view>
+</template>

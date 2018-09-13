@@ -1,0 +1,5 @@
+<template name="52a01168">
+  <view class="_div data-v-60b8d5c2">
+    <view bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_div data-v-60b8d5c2">子组件给父组件传值：</view>
+  </view>
+</template>

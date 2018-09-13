@@ -1,0 +1,13 @@
+<import src="/components/calendar.vue.wxml" /><template name="1606e538">
+  <view class="_div data-v-6b277275 container"><template bindchangeName="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" data="{{...$root[$kk+'0'], $root}}" is="52a01168"></template>
+    <navigator url="../number/main" class="_a data-v-6b277275">跳转</navigator>
+    <view class="_div data-v-6b277275">点击获取子组件传递过来的值</view>
+    <view class="_div data-v-6b277275 view-tab">
+      <view class="_ul data-v-6b277275">
+        <view wx:key="index" key="{{index}}" bindtap="handleProxy" data-eventid="{{'1-'+index}}" data-comkey="{{$k}}" wx:for="{{tabList}}" wx:for-index="index" wx:for-item="item" class="_li data-v-6b277275">
+          <view class="_div data-v-6b277275 {{[index == currIndex ? 'mycolor' : '', view - list]}}"> {{item.id}}</view>
+        </view>
+      </view>
+    </view> <input type="text" value="{{motto}}" class="_input data-v-6b277275" /> <button bindtap="handleProxy" data-eventid="{{'2'}}" data-comkey="{{$k}}" class="_button data-v-6b277275">按钮</button>
+  </view>
+</template>
